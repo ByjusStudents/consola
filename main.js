@@ -1,0 +1,17 @@
+nombre="jose ";
+nombre2="mendoza fierro";
+console.log("mi primer prollecto en la consola");
+console.log(nombre);
+console.log(nombre2);
+completo=nombre.concat(nombre2);
+console.log(completo);
+a = 10;
+b = 5;
+sumar= a + b ;
+console.log(sumar);
+restar= a - b ;
+console.log(restar);
+multiplicar= a * b ;
+console.log(multiplicar);
+dividir= a / b ;
+console.log(dividir);
